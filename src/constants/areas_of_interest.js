@@ -1,0 +1,13 @@
+export const areasOfInterest = [
+  "TI",
+  "GESTION DE PERSONAS",
+  "SALUD, SEGURIDAD Y AMBIENTE",
+  "ACERIA",
+  "LAMINACION",
+  "CALIDAD",
+  "CONTABILIDAD Y FINANZAS",
+  "MARKETING Y VENTAS",
+  "METALICOS",
+  "ALMACEN",
+  "MECANICA",
+];
